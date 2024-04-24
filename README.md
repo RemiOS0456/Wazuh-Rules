@@ -130,22 +130,6 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTACT -->
-## Contact
-
-SOCFortress - [![LinkedIn][linkedin-shield]][linkedin-url] - info@socfortress.co
-
-<div align="center">
-  <h2 align="center">Let SOCFortress Take Your Open Source SIEM to the Next Level</h3>
-  <a href="https://www.socfortress.co/contact_form.html">
-    <img src="images/Email%20Banner.png" alt="Banner">
-  </a>
-
-
-</div>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
@@ -154,4 +138,4 @@ Security is best when we work together! Huge thank you to those supporting and t
 * [Wazuh Team](https://documentation.wazuh.com/current/index.html)
 * [Taylor Walton](https://www.youtube.com/channel/UC4EUQtTxeC8wGrKRafI6pZg)
 * [Juan Romero](https://github.com/juaromu)
-* [COCFortress](https://www.socfortress.co)
+* [SOCFortress](https://www.socfortress.co)
