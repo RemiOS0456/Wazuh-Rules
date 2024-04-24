@@ -77,12 +77,7 @@ Below are the current rules and integrations currently contained within this rep
 * [Alienvault](https://github.com/socfortress/Wazuh-Rules/tree/main/Domain%20Stats)
 * Tessian - WIP
 
-### Roadmap
 
-Have an Integration already configured that you'd like to share? Or have an idea for an Integration that you would like help on? Feel free to add it to the Roadmap.
-- [ ] Feel free to bring ideas :smile:
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -94,8 +89,6 @@ Feel free to implement all of the rules that are contained within this repo, or 
 Wazuh-Manager Version 4.x Required.
 
 [Wazuh Install Docs](https://documentation.wazuh.com/current/index.html)
-
-[Need Assitance? - Hire SOCFortress](https://www.socfortress.co/contact_form.html)
 
 ### Installation
 
