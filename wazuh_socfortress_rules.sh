@@ -7,7 +7,7 @@ clear
 
 ## Check if system is based on yum or apt-get
 while true; do
-    read -p "Do you wish to configure Wazuh with the SOCFortress ruleset? WARNING - This script will replace all of your current custom Wazuh Rules. Please proceed with caution and it is recommended to manually back up your rules... continue? " yn
+    read -p "Do you wish to configure Wazuh with the TridentStack ruleset? WARNING - This script will replace all of your current custom Wazuh Rules. Please proceed with caution and it is recommended to manually back up your rules... continue? " yn
     case $yn in
         [Yy]* ) break;;
         [Nn]* ) exit;;
@@ -115,7 +115,7 @@ healthCheck() {
     if [ -n "$(/var/ossec/bin/wazuh-control status | grep 'wazuh-logcollector not running...')" ]; then
         logger -e "Wazuh-Manager Service is not healthy. Please check /var/ossec/logs/ossec.log for details."
     else
-        logger -e "Wazuh-Manager Service is healthy. Thanks for checking us out :) Get started with our free-for-life tier here: https://www.socfortress.co/trial.html Happy Defending!"
+        logger -e "Wazuh-Manager Service is healthy."
         rm -rf /tmp/Wazuh-Rules
     fi
 }
