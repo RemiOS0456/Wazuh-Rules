@@ -1,36 +1,13 @@
-[<img src="images/logo_orange.svg" align="right" width="100" height="100" />](https://www.socfortress.co/)
 
-# Advanced Wazuh Detection Rules [![Awesome](https://img.shields.io/badge/SOCFortress-Worlds%20First%20Free%20Cloud%20SOC-orange)](https://www.socfortress.co/trial.html)
-> The SOCFortress Team has committed to contributing to the Open Source community. We hope you find these rulesets helpful and robust as you work to keep your networks secure.
-
-
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![your-own-soc-free-for-life-tier](https://img.shields.io/badge/Get%20Started-FREE%20FOR%20LIFE%20TIER-orange)](https://www.socfortress.co/trial.html)
-
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/socfortress/Wazuh-Rules">
-    <img src="images/logo_orange.svg" alt="Logo" width="100" height="100">
-    <img src="images/wazuh_logo.png" alt="Logo">
   </a>
 
   <h3 align="center">Advanced Wazuh Detection Rules</h3>
 
   <p align="center">
     Have Wazuh deployed and ingesting your logs but looking for some better detection rules? Look no further. The objective for this repo is to provide the Wazuh community with rulesets that are more accurate, descriptive, and enriched from various sources and integrations.
-    <br />
-    <a href="https://www.socfortress.co/index.html"><strong>Worlds First Open Source Cloud SOC »</strong></a>
-    <br />
-    <br />
-    <a href="https://documentation.wazuh.com/current/index.html">Wazuh Docs</a>
-    ·
-    <a href="https://www.socfortress.co/trial.html">FREE FOR LIFE TIER</a>
-    ·
-    <a href="https://socfortress.medium.com/">Our Blog</a>
   </p>
 </div>
 
@@ -177,18 +154,4 @@ Security is best when we work together! Huge thank you to those supporting and t
 * [Wazuh Team](https://documentation.wazuh.com/current/index.html)
 * [Taylor Walton](https://www.youtube.com/channel/UC4EUQtTxeC8wGrKRafI6pZg)
 * [Juan Romero](https://github.com/juaromu)
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/socfortress/Wazuh-Rules
-[contributors-url]: https://github.com/socfortress/Wazuh-Rules/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/socfortress/Wazuh-Rules
-[forks-url]: https://github.com/socfortress/Wazuh-Rules/network/members
-[stars-shield]: https://img.shields.io/github/stars/socfortress/Wazuh-Rules
-[stars-url]: https://github.com/socfortress/Wazuh-Rules/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/badge/Help%20Desk-Help%20Desk-blue
-[license-url]: https://servicedesk.socfortress.co/help/2979687893
-[linkedin-shield]: https://img.shields.io/badge/Visit%20Us-www.socfortress.co-orange
-[linkedin-url]: https://www.socfortress.co/
+* [COCFortress](https://www.socfortress.co)
