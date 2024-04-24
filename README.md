@@ -100,26 +100,9 @@ _You can either manually download the .xml rule files onto your Wazuh Manager or
 1. Become Root User
 2. Run the Script
    ```sh
-   curl -so ~/wazuh_socfortress_rules.sh https://raw.githubusercontent.com/socfortress/Wazuh-Rules/main/wazuh_socfortress_rules.sh && bash ~/wazuh_socfortress_rules.sh
+   curl -so ~/wazuh_trident_rules.sh https://raw.githubusercontent.com/RemiOS0456/Wazuh-Rules/main/wazuh_trident_rules.sh && bash ~/wazuh_trident_rules.sh
    ```
 
-![Alt Text](https://github.com/socfortress/Wazuh-Rules/blob/main/images/run%20install.gif)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b ruleCategory/DetectionRule`)
-3. Commit your Changes (`git commit -m 'Add some DetectionRules'`)
-4. Push to the Branch (`git push origin ruleCategory/DetectionRule`)
-5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
