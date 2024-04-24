@@ -92,9 +92,9 @@ Wazuh-Manager Version 4.x Required.
 
 ### Installation
 
-_You can either manually download the .xml rule files onto your Wazuh Manager or make use of our wazuh_socfortress_rules.sh script_
+_You can either manually download the .xml rule files onto your Wazuh Manager or make use of our wazuh_trident_rules.sh script_
 
-> :warning: **USE AT OWN RISK**: If you already have custom rules built out, there is a good chance duplicate Rule IDs will exists. This will casue the Wazuh-Manager service to fail! Ensure there are no conflicting Rule IDs and your custom rules are backed up prior to running the wazuh_socfortress_rules.sh script!
+> :warning: **USE AT OWN RISK**: If you already have custom rules built out, there is a good chance duplicate Rule IDs will exists. This will casue the Wazuh-Manager service to fail! Ensure there are no conflicting Rule IDs and your custom rules are backed up prior to running the wazuh_trident_rules.sh script!
 
 
 1. Become Root User
